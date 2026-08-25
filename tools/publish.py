@@ -45,7 +45,7 @@ TUTORIALS = [
         "episodes": [
             {
                 "src": V2 / ("Codex教程-第%d篇正文-草稿.md" % n),
-                "label": "第%d篇" % n,
+                "label": "第%02d篇" % n,
                 "img_subdir": "%02d" % n,
             }
             for n in range(1, 21)
