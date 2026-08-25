@@ -41,7 +41,10 @@
 
 **课程权益免费领取方式很简单：扫码关注我的公众号【启舰杂谈】，回复 888 即可**
 
-![领取全站会员权益](img/lingqu.png)
+
+<div align=center>
+<img src="img/lingqu.png"  width = 400>
+</div>
 
 
 ## 四、文档教程目录
@@ -111,6 +114,6 @@
 
 ### 我的微信
 
-![我的微信](img/qijian-toto.png)
-
-
+<div align=center>
+<img src="img/qijian-toto.png"  width = 300>
+</div>
